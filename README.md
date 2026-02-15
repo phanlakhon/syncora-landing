@@ -1,4 +1,4 @@
-# FlowSync Landing Page
+# Syncora Landing Page
 
 A modern, high-converting SaaS landing page built with Next.js and Tailwind CSS.
 
@@ -80,16 +80,16 @@ module.exports = {
 
 Replace the content in `app/page.js` (or `pages/index.js`) with:
 ```javascript
-import FlowSyncLanding from './components/FlowSyncLanding'
+import SyncoraLanding from './components/SyncoraLanding'
 
 export default function Home() {
-  return <FlowSyncLanding />
+  return <SyncoraLanding />
 }
 ```
 
 5. **Copy the component**:
 
-Create `components/FlowSyncLanding.jsx` and paste the landing page component code.
+Create `components/SyncoraLanding.jsx` and paste the landing page component code.
 
 6. **Run the development server**:
 ```bash
@@ -252,7 +252,7 @@ const onSubmit = (data) => console.log(data)
 ## 📝 Component Structure
 
 ```
-FlowSyncLanding/
+SyncoraLanding/
 ├── Navigation (Fixed header)
 ├── Hero Section
 ├── Features Grid

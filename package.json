@@ -1,7 +1,7 @@
 {
   "name": "syncora-landing",
   "version": "1.0.0",
-  "description": "Modern SaaS landing page for FlowSync - AI Productivity Tool",
+  "description": "Modern SaaS landing page for Syncora - AI Productivity Tool",
   "private": true,
   "scripts": {
     "dev": "next dev",

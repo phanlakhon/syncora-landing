@@ -1,4 +1,4 @@
-# FlowSync Landing Page - Quick Start Guide
+# Syncora Landing Page - Quick Start Guide
 
 ## 🚀 Get Started in 5 Minutes
 
@@ -108,7 +108,7 @@ const pricingPlans = [
 
 Replace the icon in the navigation:
 ```jsx
-<img src="/logo.png" alt="FlowSync" className="w-8 h-8" />
+<img src="/logo.png" alt="Syncora" className="w-8 h-8" />
 ```
 
 ### 4. Custom Fonts
@@ -196,7 +196,7 @@ import Image from 'next/image'
 
 <Image 
   src="/hero-image.jpg"
-  alt="FlowSync Dashboard"
+  alt="Syncora Dashboard"
   width={1200}
   height={630}
   priority
